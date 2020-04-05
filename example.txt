@@ -12,4 +12,3 @@ for line in rfile:
         else:
             alp[ch] = 1
 print(alp)
-[출처] [두근두근 파이썬 풀이] CHAPTER 11|작성자 게으른 프로그래머
